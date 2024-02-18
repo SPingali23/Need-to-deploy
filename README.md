@@ -1,2 +1,2 @@
 # Need-to-deploy
-need to deploy this energym spp
+need to deploy this energym app
